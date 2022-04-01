@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\bin\Debug\netcoreapp3.1\Polymorphizm2.exe
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\bin\Debug\netcoreapp3.1\Polymorphizm2.deps.json
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\bin\Debug\netcoreapp3.1\Polymorphizm2.runtimeconfig.json
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\bin\Debug\netcoreapp3.1\Polymorphizm2.runtimeconfig.dev.json
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\bin\Debug\netcoreapp3.1\Polymorphizm2.dll
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\bin\Debug\netcoreapp3.1\Polymorphizm2.pdb
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.dll
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.pdb
+C:\Users\user\Downloads\PortableGit\BP202\Polymorphizm2\Polymorphizm2\obj\Debug\netcoreapp3.1\Polymorphizm2.genruntimeconfig.cache
